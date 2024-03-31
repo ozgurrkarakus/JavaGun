@@ -1,0 +1,12 @@
+1-Ogrenci isimli  ad , soyad, görevi , subesi(string) olan bir class yazınız
+2-Calisan isimli  ad, soyad, görevi , departmanı(string) olan bir class yazınız.
+3-Yukarıdaki sınıflardan oluşturacağınız 2 adet nesne için de geçerli
+  olacak kimlik belgesi formu oluşturan tek bir metod yazınız.
+
+  ipucu : bu iki sınıfın ortak çalışacağı bir metod kullanabilmesi için
+    NE OLMASI LAZIM ?
+
+
+    kimlikYaz(Kisi k){  // calisan, ogrenci
+
+    }
